@@ -1,1 +1,1 @@
-# personal_blog
+# Sample personal blog for testing out github pages feature
